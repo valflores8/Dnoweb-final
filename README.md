@@ -6,6 +6,9 @@ Natación juegos olímpicos
 
 (resultados por categoría JJOO)[https://www.olympics.com/es/olympic-games/paris-2024/results/swimming]
 
+
+### contenido
+
 Linea de tiempo: año de estreno de cada prueba de natación
 
 los 4 estilos
