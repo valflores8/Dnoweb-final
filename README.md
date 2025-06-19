@@ -7,6 +7,7 @@ Natación juegos olímpicos
 https://diplomado-infografia.github.io/francisco-miranda/
 
 ### fuentes de datos
+(mi base de datos)[https://docs.google.com/spreadsheets/d/1ZXaMHXXC3KM-ScMO50RaT1szmBx8_aaWMtU03KA0hh4/edit?usp=sharing]
 
 (Mundial de natación)[https://www.worldaquatics.com/news/4166924/world-aquatics-masters-championships-singapore-2025-information-bulletin-no2-swimming-entry-times]
 
