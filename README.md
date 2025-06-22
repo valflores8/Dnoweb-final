@@ -2,19 +2,31 @@
 Natación juegos olímpicos
 
 
-### Referente:
+## Referente:
 
-https://diplomado-infografia.github.io/francisco-miranda/
+### Contenido:
+(infografía diplomado: Francisco Miranda)[https://diplomado-infografia.github.io/francisco-miranda/]
+ 
+### Visual:
+(presentación de medisas)[https://slidesgo.com/es/tema/todo-sobre-las-medusas#position-3&related-1&rs=detail-related]
+(world aquatics)[https://www.worldaquatics.com/]
 
-### fuentes de datos
+
+## fuentes de datos
 (mi base de datos)[https://docs.google.com/spreadsheets/d/1ZXaMHXXC3KM-ScMO50RaT1szmBx8_aaWMtU03KA0hh4/edit?usp=sharing]
 
-(Mundial de natación)[https://www.worldaquatics.com/news/4166924/world-aquatics-masters-championships-singapore-2025-information-bulletin-no2-swimming-entry-times]
+(world aquatics)[https://www.worldaquatics.com/]
 
 (resultados por categoría JJOO)[https://www.olympics.com/es/olympic-games/paris-2024/results/swimming]
 
+(Reglamento FINA)[https://www.worldaquatics.com/rules/competition-regulations]
 
-### contenido
+(Regulaciones FINA)[https://www.worldaquatics.com/rules/competition-regulations]
+
+
+
+
+## contenido web
 
 Linea de tiempo: año de estreno de cada prueba de natación
 
