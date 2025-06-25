@@ -27,10 +27,18 @@ h2{
 	font-size: 24px;
 	margin: 0;
 }
+
 p{
 	font-family: "inter";
 	font-weight: Regular;
 	font-size: 16px;
+	margin: 0;
+}
+aa{
+	font-family: "inter";
+	font-style: italic;
+	font-weight: Regular;
+	font-size: 12px;
 	margin: 0;
 }
 
