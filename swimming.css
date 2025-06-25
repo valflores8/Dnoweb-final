@@ -1,1 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+body {
+	font-family: "inter";
+	text-align: center;
+  font-style: normal;
+  
+}
+
+
+h1{
+	font-family: "Pridi";
+	font-weight: SemiBold;
+	font-size: 62;
+	margin: 0;
+}
+h2{
+	font-family: "Pridi";
+	font-weight: Medium;
+	font-size: 20;
+	margin: 0;
+}
+p{
+	font-family: "inter";
+	font-weight: Regular;
+	font-size: 12;
+	margin: 0;
+}
