@@ -10,7 +10,7 @@ Natación juegos olímpicos
 ### Visual:
 (presentación de medisas)[https://slidesgo.com/es/tema/todo-sobre-las-medusas#position-3&related-1&rs=detail-related]
 (world aquatics)[https://www.worldaquatics.com/]
-
+(huaweu wath fit 4 pro)[https://consumer.huawei.com/cl/wearables/watch-fit4-pro/]
 
 ## fuentes de datos
 (mi base de datos)[https://docs.google.com/spreadsheets/d/1ZXaMHXXC3KM-ScMO50RaT1szmBx8_aaWMtU03KA0hh4/edit?usp=sharing]
@@ -22,7 +22,6 @@ Natación juegos olímpicos
 (Reglamento FINA)[https://www.worldaquatics.com/rules/competition-regulations]
 
 (Regulaciones FINA)[https://www.worldaquatics.com/rules/competition-regulations]
-
 
 
 
