@@ -4,11 +4,14 @@
 
 
 
+
+
+
 body {
 	font-family: "inter";
 	text-align: center;
 	font-style: normal;
-	background: lightblue;
+	background: #E3F2FD;
 	width: min(800px, 90%), center;
   	
   
@@ -20,6 +23,7 @@ h1{
 	font-weight: SemiBold;
 	font-size:	62px;
 	margin: 0;
+	color: #121B59;
 }
 h2{
 	font-family: "Pridi";
