@@ -29,13 +29,15 @@ Natación juegos olímpicos
 
 Linea de tiempo: año de estreno de cada prueba de natación
 
-los 4 estilos
+los 4 estilos 
 
-estrategia y habilidad para cada pruebao distancia (50m, 100, 200, 400, 800, 1500, 10km?)
-
+(infografico) estrategia y habilidad para cada pruebao distancia (50m, 100, 200, 400, 800, 1500, 10km?)
+ 
 Grafica: linea de tiempos por juegos olimpicos 100m y 400m
 1980 a 2024
 
-Comparativca hombres-mujeres, Brechas de tiempos, a mayor distancia, la breacha de tiempos disminuye
+gráfica timepos pr competencia
+
+Comparativca hombres-mujeres, Brechas de tiempos
 
 reglamento de vestuario: supertrajes, nuevas tecnologías de entrenamiento
