@@ -6,68 +6,58 @@
     margin: 5vh 25vw 5vh 25vw;
 }
 
-body {
-    font-family: "inter";
+body { font-family: "inter";
     text-align: center;
     font-style: normal;
     background: #e3f2fd;
     width: min(800px, 90%), center;
 }
 
-h1 {
-    font-family: "Pridi";
+h1 {    font-family: "Pridi";
     font-weight: SemiBold;
     font-size: 62px;
     margin: 0;
     color: #121b59;
 }
-h2 {
-    font-family: "Pridi";
+h2 {    font-family: "Pridi";
     font-weight: Medium;
     font-size: 24px;
     margin: 0;
 }
 
-p {
-    font-family: "inter";
+p {    font-family: "inter";
     font-weight: Regular;
     font-size: 16px;
     margin: 0;
 }
-aa {
-    font-family: "inter";
+aa {    font-family: "inter";
     font-style: italic;
     font-weight: Regular;
     font-size: 12px;
     margin: 0;
 }
 
-.parentt {
-    display: grid;
+.parentt {    display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(2, 1fr);
     gap: 8px;
 }
 
-.div1t {
-    grid-column: span 4 / span 4;
+.div1t {    grid-column: span 4 / span 4;
     margin: 2vh 0vw 5vh 10vw;
 }
 
-.div2t {
-    grid-column: span 2 / span 2;
+.div2t {    grid-column: span 2 / span 2;
     grid-column-start: 5;
     text-align: left;
     margin: 15vh 5vw 5vh 0vw;
 }
-.div3t {
-    grid-column: span 4 / span 4;
+.div3t {    grid-column: span 4 / span 4;
     grid-row-start: 2;
     margin: 2vh 0vw 5vh 10vw;
 }
 
-.div4t {
-    grid-column: span 2 / span 2;
+.div4t {    grid-column: span 2 / span 2;
     grid-column-start: 5;
     grid-row-start: 2;
     margin: 10vh 5vw 5vh 0vw;
@@ -87,27 +77,25 @@ aa {
     gap: 12px;
 }
 
-.left {
-    margin: 0vh 0vw 0vh 10vw;
+.left {    margin: 0vh 0vw 0vh 10vw;
     text-align: right;
     align-items: center;
 }
-.right {
-    margin: 0vh 10vw 0vh 0vw;
+.right {    margin: 0vh 10vw 0vh 0vw;
     text-align: left;
     align-items: center;
 }
 
-.turn {
-    display: grid;
+
+.turn {    display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    gap: 8px;
-}
-.izq {
-}
+    grid-template-rows: repeat(1, 1fr);
+    gap: 8px; }
+.izq {margin: 0vh 0vw 0vh 10vw;
+    text-align: right;} 
 .cent {
     text-align: center;
 }
-.derch {
+.derch {margin: 0vh 10vw 0vh 0vw;
+    text-align: left;
 }
