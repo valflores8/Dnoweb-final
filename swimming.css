@@ -5,7 +5,7 @@
 
 
 
-div {
+.intro{
 	margin: 2vh 25vw 5vh 25vw;
 }
 
@@ -43,9 +43,68 @@ aa{
 	font-style: italic;
 	font-weight: Regular;
 	font-size: 12px;
-	margin: 0;
+	margin: 0; }
+
+
+
+.parentt {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 8px;
+}
+    
+.div1t {
+    grid-column: span 4 / span 4;
+    margin: 2vh 0vw 5vh 10vw
 }
 
-.year { font-family: "Pridi"; font:  12px; fill: #1A237E; }
-.event { font: 11px ; fill: #555; text-align: left; }
+.div2t {
+    grid-column: span 2 / span 2;
+    grid-column-start: 5;
+    text-align: left;
+    margin: 15vh 5vw 5vh 0vw
+}
+.div3t {
+    grid-column: span 4 / span 4;
+    grid-row-start: 2;
+    margin: 2vh 0vw 5vh 10vw
+    
+}
+
+.div4t {
+    grid-column: span 2 / span 2;
+    grid-column-start: 5;
+    grid-row-start: 2;
+    margin: 10vh 5vw 5vh 0vw;
+    text-align: left;
+}
+        
+.cent  {
+	text-align: center;
+	grid-column: span 2 / span 2; 
+	margin: 2vh 25vw 5vh 25vw;}
+
+
+.stroke {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    gap: 12px;
+}
+.left {
+	margin: 2vh 0vw 5vh 10vw; 
+	text-align: right; 
+	align-items: center;
+}
+.right { 
+	margin: 2vh 10vw 5vh 0vw;
+	text-align: left; 
+	align-items: center;
+}
+.img {
+	width: 700px;
+}
+    
+
 
