@@ -5,7 +5,9 @@
 
 
 
-
+div {
+	margin: 2vh 25vw 5vh 25vw;
+}
 
 body {
 	font-family: "inter";
@@ -13,8 +15,6 @@ body {
 	font-style: normal;
 	background: #E3F2FD;
 	width: min(800px, 90%), center;
-  	
-  
 }
 
 
@@ -46,4 +46,6 @@ aa{
 	margin: 0;
 }
 
+.year { font-family: "Pridi"; font:  12px; fill: #1A237E; }
+.event { font: 11px ; fill: #555; text-align: left; }
 
