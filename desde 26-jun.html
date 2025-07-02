@@ -10,12 +10,102 @@
 	 <div class="intro">
             <h1>Natación competitiva</h1>
             <p> La natación es supervisada por <a href="https://www.worldaquatics.com/">Word Aquatics</a> desde 1908, conocida entonces como FINA (Federación Internacional de Natación) nombre que mantuvo hasta 2022. Al igual que en el atletismo, este deporte busca alcanzar la máxima velocidad en cada distancia, y con el tiempo se ha estructurado en cuatro estilos de nado reglamentados, que se diferencian principalmente por la coordinación y el movimiento de brazos y piernas. <br> Aunque se considera un deporte individual, también existe la categoría de relevos que lo vuelve también un deporte por equipos. Además,  se suele formar un fuerte sentido de equipo entre quienes entrenan juntos, debido al apoyo psicológico y motivacional que brinda la presencia de compañeros durante las prácticas.  </p>
+    <!--      </div> -->
 
-            <p>  </p>
+            <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 800 400" id="lin" fill="none" stroke="#5C6BC0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> 
+               <rect width="100%" height="100%" fill="none"/>
+               <line x1="50" y1="100" x2="750" y2="100" stroke="#111" stroke-width="3" stroke-linecap="round" /> 
+                     <style> .year {font-family: "Pridi"; font:  12px; fill: #1A237E;} </style>
+                
+<!-- calcular la posición X basada en el año -->
+                <script type="text/javascript">
+                  function calculateX(year) {
+                    const minYear = 1896;
+                    const maxYear = 2028;
+                    const totalYears = maxYear - minYear; // =132
+                    const totalWidth = 700; //  x=50 y x=750
+                    const k = 50 + ((year - minYear) / totalYears) * totalWidth;
+                    return k.toFixed(2); 
+
+                    console.log();
+                } </script>
+
+<!-- lineas base -->
+ <!-- 1896 --> <line x1="50" y1="55" x2="50" y2="160" stroke="#C5CAE9" stroke-width="6"/>
+ <!-- 1900 --> <line x1="71" y1="70" x2="71" y2="205" stroke="#C5CAE9" stroke-width="6"/>
+
+  <!-- 1896 -->
+    <text class="year" x="50" y="55">1896</text>
+  <text class="event" x="50" y="130">100 m libre</text>
+  <text class="event" x="50" y="145">400 m libre</text>
+  <text class="event" x="50" y="160">1500 m libre</text>
+
+  <!-- 1900 
+  <line x1="71" y1="75" x2="71" y2="105" stroke="#111" stroke-width="2"/> -->
+  <text class="year" x="71" y="80">1900</text>
+  <text class="event" x="71" y="180">200 m libre</text>
+  <text class="event" x="71" y="195">100 m espalda</text>
+  <text class="event" x="71" y="210">200 m espalda</text>
+  
+
+  <!-- 1904 -->
+  <line x1="250" y1="70" x2="250" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="250" y="75">1904</text>
+  <text class="event" x="250" y="130">50 m libre</text>
+  <text class="event" x="250" y="145">100 m pecho</text>
+  <text class="event" x="250" y="160">200 m pecho</text>
+
+  <!-- 1912 -->
+  <line x1="350" y1="70" x2="350" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="350" y="75">1912</text>
+  <text class="event" x="350" y="130">4×100 m libre</text>
+  <text class="event" x="350" y="145">4×200 m libre</text>
+
+  <!-- 1956 -->
+  <line x1="450" y1="70" x2="450" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="450" y="75">1956</text>
+  <text class="event" x="450" y="130">100 m mariposa</text>
+  <text class="event" x="450" y="145">200 m mariposa</text>
+
+  <!--1960 -->
+  <line x1="550" y1="70" x2="550" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="550" y="75">1960</text>
+  <text class="event" x="550" y="130">4×100 m medley</text>
+
+  <!--1964 -->
+  <line x1="650" y1="70" x2="650" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="650" y="75">1964</text>
+  <text class="event" x="650" y="130">200 m medley individual</text>
+  <text class="event" x="650" y="145">400 m medley individual</text>
+
+  <!--2008 -->
+  <line x1="750" y1="70" x2="750" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="750" y="75">2008</text>
+  <text class="event" x="750" y="130">10 km aguas abiertas</text>
+
+  <!--2020 -->
+  <line x1="700" y1="70" x2="700" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="700" y="75">2020</text>
+  <text class="event" x="700" y="130">800 m libre</text>
+  <text class="event" x="700" y="145">4×100 m medley mixto</text>
+
+  <!-- 2028 -->
+  <line x1="700" y1="70" x2="700" y2="100" stroke="#111" stroke-width="2"/>
+  <text class="year" x="700" y="75">2028</text>
+  <text class="event" x="700" y="130">50 m espalda</text>
+  <text class="event" x="700" y="145">50 m pecho</text>
+  <text class="event" x="700" y="160">50 m mariposa</text>
+</svg>
+
+
+
 
             <h2>línea de timepo estreno de las pruebas</h2>
-            <p> para los juegos olimpicos 2028 se incorporan las pruebas de 50m estilos</p>
 
+
+              <h2>Pruebas y estilos</h2>
+
+            <p> para los juegos olimpicos 2028 se incorporan las pruebas de 50m para cada estilo</p>
             
      </div>
 
