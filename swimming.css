@@ -91,6 +91,7 @@ aa{
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(7, 1fr);
     gap: 12px;
+    max-width: 800 px;
 }
 .left {
 	margin: 2vh 0vw 5vh 10vw; 
@@ -102,9 +103,5 @@ aa{
 	text-align: left; 
 	align-items: center;
 }
-.img {
-	width: 700px;
-}
-    
 
 
